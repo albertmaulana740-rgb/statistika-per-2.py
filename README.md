@@ -1,0 +1,1 @@
+# statistika-per-2.py
